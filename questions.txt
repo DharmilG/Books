@@ -1,0 +1,5 @@
+Who are data silos?
+Why The kinds of schemas and data layouts that are good for OLTP are less well suited
+Why did we invent hybrid transactional/analytical databases?
+What are available hybrid HTAP DB?, are they SQL/NoSQL, How are they different from PostGres, What are Trade-offs to consider to use these?, Pros and cons of these HTAP DBs
+ 
